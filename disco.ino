@@ -1,9 +1,6 @@
 const float multiplier =  500;
 unsigned long prev_time = 0;
 unsigned long cur_time = 0;
-int state = 0;
-int prev_state = 0;
-int count = 0;
 float voltage = 0;
 const int startPin = 2;
 const int endPin = 7;
